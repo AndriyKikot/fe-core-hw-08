@@ -258,6 +258,11 @@ img {
     padding-top: 38px;
   }
 
+  .promo-content-wrapper {
+    max-width: 492px;
+    margin: 0 auto;
+  }
+
   .account-toolbar {
     margin: 0;
   }
@@ -271,8 +276,7 @@ img {
 
   .site-title {
     font-size: 3.25rem;
-    max-width: 492px;
-    margin: 0 auto 40px;
+    margin-bottom: 40px;
   }
 
   .site-description {
